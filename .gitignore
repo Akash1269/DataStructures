@@ -1,5 +1,5 @@
 # Default ignored files
-/workspace.xml
+/.idea/workspace.xml
 
 target/
 pom.xml.tag
@@ -11,6 +11,7 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+*.iml
 
 # Compiled class file
 *.class
